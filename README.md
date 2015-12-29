@@ -7,4 +7,4 @@ Just enter RGB values (red, green and blue) into the fields and the program will
 
 Created with Embarcadero Delphi XE2 Version 16.
 
-Download version 1.0 [here](https://github.com/tom-engel/delphi-colorhelper/releases/download/v1.0/colorhelper.zip).
+Download version 1.0 [here](https://github.com/tom-engel/delphi-colorhelper/releases/download/v1.0/delphi-colorhelper-v1.0.zip).
